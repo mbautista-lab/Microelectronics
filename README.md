@@ -11,7 +11,7 @@ In microelectronics, engineers and scientists explore the behavior of electrons 
 
 ## Sample Course Outline: [Link](https://github.com/yamiversity/Microelectronics/blob/main/Outline)
 
-## Free online resources  / websites to learn microelectroncis: 
+## Online resources  / websites to learn microelectroncis: 
 
 1. [All About Circuits](https://www.allaboutcircuits.com): 
       All About Circuits is an online resource that provides comprehensive educational materials on electronics, 
