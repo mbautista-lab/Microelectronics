@@ -27,8 +27,5 @@ In microelectronics, engineers and scientists explore the behavior of electrons 
     They cover topics such as basic electronics, semiconductors, digital electronics, and more.
 * [Link to electronics tutorials sub-topics](https://github.com/yamiversity/Microelectronics/blob/main/Tutorials.md)
 
-# Learn VLSI : [Tinytapeout](https://tinytapeout.com/)
-* Digital Design Guide: [Design Tool: Wokwi](https://tinytapeout.com/digital_design/wokwi/)
-* How Semiconductor Works [SiliWiz](https://tinytapeout.com/siliwiz/introduction/)
 
             
