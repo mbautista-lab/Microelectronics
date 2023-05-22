@@ -1,1 +1,32 @@
+Electronics Tutorials Topics
+
+* [AC Circuits](https://www.electronics-tutorials.ws/accircuits/ac-waveform.html)
+* [Amplifiers](https://www.electronics-tutorials.ws/amplifier/amp_1.html)
+* [Attenuators](https://www.electronics-tutorials.ws/attenuators/attenuator.html)
+* [Binary Numbers](https://www.electronics-tutorials.ws/binary/bin_1.html)
+* [Boolean Numbers](https://www.electronics-tutorials.ws/boolean/bool_1.html)
+* [Capacitor](https://www.electronics-tutorials.ws/capacitor/cap_1.html)
+* [Combinational Logics](https://www.electronics-tutorials.ws/combination/comb_1.html)
+* [Connectivity](https://www.electronics-tutorials.ws/connectivity/i2c-voltage-level-translators.html)
+* [Counters](https://www.electronics-tutorials.ws/counter/count_1.html)
+* [DC Circuits](https://www.electronics-tutorials.ws/dccircuits/dcp_1.html)
+* [Diodes](https://www.electronics-tutorials.ws/diode/diode_1.html)
+* [Electromagnetism](https://www.electronics-tutorials.ws/electromagnetism/magnetism.html)
+* [Filters](https://www.electronics-tutorials.ws/filter/filter_1.html)
+* [Inductors](https://www.electronics-tutorials.ws/inductor/inductor.html)
+* [Input/Output Devices](https://www.electronics-tutorials.ws/io/io_1.html)
+* [Logical Gates](https://www.electronics-tutorials.ws/logic/logic_1.html)
+* [Op-Amp](https://www.electronics-tutorials.ws/opamp/opamp_1.html)
+* [Oscillators](https://www.electronics-tutorials.ws/oscillator/oscillators.html)
+* [Power Electronics](https://www.electronics-tutorials.ws/power/thyristor.html)
+* [Power Supplies](https://www.electronics-tutorials.ws/supplies/power-supplies-for-beginners-part-1.html)
+* [RC Networks](https://www.electronics-tutorials.ws/rc/rc_1.html)
+* [Resistors](https://www.electronics-tutorials.ws/resistor/res_1.html)
+* [Sequential Logics](https://www.electronics-tutorials.ws/sequential/seq_1.html)
+* [Systems](https://www.electronics-tutorials.ws/systems/electronic-system.html)
+* [Transformers](https://www.electronics-tutorials.ws/transformer/transformer-basics.html)
+* [Transistors](https://www.electronics-tutorials.ws/transistor/tran_1.html)
+* [Waveform Generators](https://www.electronics-tutorials.ws/waveforms/waveforms.html)
+
+
 
