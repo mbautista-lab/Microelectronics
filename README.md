@@ -17,7 +17,7 @@ In microelectronics, engineers and scientists explore the behavior of electrons 
       All About Circuits is an online resource that provides comprehensive educational materials on electronics, 
       including microelectronics. They offer tutorials, articles, forums, and interactive tools for learning 
       and practicing electronics concepts
-* [Video Tutorials](https://www.allaboutcircuits.com/video-tutorials/)
+* [Video Tutorials](https://www.allaboutcircuits.com/video-tutorials/) 
 * [Lectures](https://www.allaboutcircuits.com/video-lectures/)
 * [Tech Chats](https://www.allaboutcircuits.com/tech-chats/)
 
@@ -26,6 +26,7 @@ In microelectronics, engineers and scientists explore the behavior of electrons 
     Electronics Tutorials provides a wide range of tutorials and articles on electronics, including microelectronics. 
     They cover topics such as basic electronics, semiconductors, digital electronics, and more.
 * [Link to electronics tutorials sub-topics](https://github.com/yamiversity/Microelectronics/blob/main/Tutorials.md)
+* Recommended topics: Binary Numbers, Boolean Algebra, Combinational Logics, Logics Gates, Sequential logics
 
 
             
