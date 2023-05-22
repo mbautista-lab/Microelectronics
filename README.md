@@ -16,11 +16,10 @@ In microelectronics, engineers and scientists explore the behavior of electrons 
 1. [All About Circuits](https://www.allaboutcircuits.com): 
       All About Circuits is an online resource that provides comprehensive educational materials on electronics, 
       including microelectronics. They offer tutorials, articles, forums, and interactive tools for learning 
-      and practicing electronics concepts.
-      
-            * [Video Tutorials](https://www.allaboutcircuits.com/video-tutorials/)
-            * [Lectures](https://www.allaboutcircuits.com/video-lectures/)
-            *  [Tech Chats](https://www.allaboutcircuits.com/tech-chats/)
+      and practicing electronics concepts
+* [Video Tutorials](https://www.allaboutcircuits.com/video-tutorials/)
+* [Lectures](https://www.allaboutcircuits.com/video-lectures/)
+* [Tech Chats](https://www.allaboutcircuits.com/tech-chats/)
 
 
 
