@@ -52,8 +52,8 @@ In microelectronics, engineers and scientists explore the behavior of electrons 
 * [Transformers](https://www.electronics-tutorials.ws/transformer/transformer-basics.html)
 * [Transistors](https://www.electronics-tutorials.ws/transistor/tran_1.html)
 * [Waveform Generators](https://www.electronics-tutorials.ws/waveforms/waveforms.html)
-* 
-* 
+
+
 
 
             
